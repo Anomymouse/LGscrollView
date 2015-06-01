@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4FF3ADB8-0494-49D1-B17D-3B0B9B78F202</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LGscrollView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BCADE25CE45F8DB6E282731631861CCE65B9C909</key>
+		<string>https://github.com/jamy0801/LGscrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LGscrollView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BCADE25CE45F8DB6E282731631861CCE65B9C909</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jamy0801/LGscrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BCADE25CE45F8DB6E282731631861CCE65B9C909</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCADE25CE45F8DB6E282731631861CCE65B9C909</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LGscrollView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

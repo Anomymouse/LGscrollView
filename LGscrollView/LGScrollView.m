@@ -181,7 +181,11 @@
 {
     [curScrollView scrollRectToVisible:CGRectMake(showFrame.size.width * 2, 0, showFrame.size.width, showFrame.size.height) animated:YES];
     
-    [pageCtrl setCurrentPage:curPage -1];
+    if (curPage == 4) {
+        [pageCtrl setCurrentPage:0];
+    }
+    else
+       [pageCtrl setCurrentPage:curPage];
 }
 
 @end
